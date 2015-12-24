@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://hazinyul.github.io
+title: millenium házinyúl
+email: reka.mocsanyi@hotmail.com
+author: házinyúl
+description: hello, this is blog. No, this is Patrick!
+paginate: 5
+google_analytics: 
